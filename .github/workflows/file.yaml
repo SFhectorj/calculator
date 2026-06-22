@@ -1,6 +1,5 @@
 name: Check Style
 on: push
-
 jobs:
   check-style:
     runs-on: ubuntu-latest
